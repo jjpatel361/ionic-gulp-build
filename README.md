@@ -6,7 +6,7 @@ A set of most common build tasks required to create production version of Ionic 
 
   - Install all gulp plugins using `npm install`
 
-  - Run `gulp build-prod`.
+  - Run `gulp build-prod`. Use `www-dist` as production ready version.  
 
 
 ## What's packaged?
